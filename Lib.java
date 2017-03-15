@@ -1,6 +1,6 @@
 /**
  *
- * @author 
+ * @author Daniel Martín Millet
  */
 
 public class Lib {
